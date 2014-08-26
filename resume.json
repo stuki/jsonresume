@@ -22,8 +22,8 @@
       },
       {
         "network": "soundcloud",
-        "username": "paulicity",
-        "url": "http://soundcloud.com/paulicity"
+        "username": "osososo",
+        "url": "http://soundcloud.com/sosos"
       }
     ]
   },
@@ -31,7 +31,7 @@
     {
       "company": "Jolla",
       "position": "QA Automation Engineer",
-      "website": "http://jolla.com",
+      "website": "http://jolla.com/",
       "startDate": "03-10-2014",
       "endDate": "",
       "summary": "Jolla is an independent designer and developer of various mobile devices as well as their open Sailfish OS and Mer Core open source projects.Headquartered in Helsinki, Finland, Jolla has Research and Development (R&D) sites in Helsinki and Tampere, an office in Hong Kong, and they are establishing R&D operations in China.  Jolla, in Finnish, is pronounced 'yolla'.",
@@ -45,7 +45,7 @@
   "education": [
     {
       "institution": "Arcada University of Applied Science",
-      "area": "Material Technics",
+      "area": "Plastics Technology",
       "studyType": "Bachelor",
       "startDate": "2012",
       "endDate": "",
