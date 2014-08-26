@@ -36,7 +36,7 @@
       "endDate": "",
       "summary": "Jolla is an independent designer and developer of various mobile devices as well as their open Sailfish OS and Mer Core open source projects.Headquartered in Helsinki, Finland, Jolla has Research and Development (R&D) sites in Helsinki and Tampere, an office in Hong Kong, and they are establishing R&D operations in China.  Jolla, in Finnish, is pronounced 'yolla'.",
       "highlights": [
-        "Upheld the QA infrastructure and helped develop and update the QA software",
+        "Upheld the QA infrastructure and helped updateing and patching the QA software",
         "Manual testing of the software at each new software release"
       ]
     }
