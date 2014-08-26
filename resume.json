@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Oscar Storbacka",
+    "label": "Materials Student",
+    "picture": "https://dl.dropboxusercontent.com/u/854081/Pics/me.jpg",
+    "email": "oscar@storbacka.co",
+    "phone": "0505-241-863",
+    "website": "http://oscastorbacka.com",
+    "summary": "I am a swedish speaking finn, and am studying to become a material engineer specialized in plastics. I have a passion for hardware, gadgets, and good design. When I'm not spending time tinkering on small projects I like to relax with some gaming, music making and tinkering even more.",
+    "location": {
+      "address": "Pengerkatu 7 C 79",
+      "postalCode": "00530",
+      "city": "Helsinki",
+      "countryCode": "Finland",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@stuki",
+        "url": "http://twitter.com/stuki"
+      },
+      {
+        "network": "soundcloud",
+        "username": "paulicity",
+        "url": "http://soundcloud.com/paulicity"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Jolla",
+      "position": "QA Automation Engineer",
+      "website": "http://jolla.com",
+      "startDate": "03-10-2014",
+      "endDate": "",
+      "summary": "Jolla is an independent designer and developer of various mobile devices as well as their open Sailfish OS and Mer Core open source projects.Headquartered in Helsinki, Finland, Jolla has Research and Development (R&D) sites in Helsinki and Tampere, an office in Hong Kong, and they are establishing R&D operations in China.  Jolla, in Finnish, is pronounced 'yolla'.",
+      "highlights": [
+        "Upheld the QA infrastructure and helped develop and update the QA software",
+        "Manual testing of the software at each new software release"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Arcada University of Applied Science",
+      "area": "Material Technics",
+      "studyType": "Bachelor",
+      "startDate": "2012",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Product Development",
+      "level": "",
+      "keywords": [
+        "Materials",
+        "Production",
+        "Design"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Beginner",
+      "keywords": [
+        "Ruby",
+        "HTML",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Finnish",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Design",
+      "keywords": [
+        "Functional design",
+        "Minimalism"
+      ]
+    },
+    {
+      "name": "Products",
+      "keywords": [
+        "Hardware",
+        "Gadgets"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Online multiplayer team games"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Bedroom producer"
+      ]
+    }
+  ],
+  "references": []
+}
