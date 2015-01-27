@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Oscar Storbacka",
-    "label": "Materials Student",
+    "label": "Materials Processing Student",
     "picture": "https://dl.dropboxusercontent.com/u/854081/Pics/me.jpg",
     "email": "oscar@storbacka.co",
     "phone": "0505-241-863",
@@ -38,9 +38,8 @@
       "highlights": [
         "Upheld the QA infrastructure and helped updating and patching the QA software",
         "Manual testing of the software at each new software release",
-	"Achieved 'Jolla Harbour Store QA Certified Level 1 Tester' (another way of saying that I tested the incoming apps for Jolla App store)"
-      ],
-      "important": true
+        "Achieved 'Jolla Harbour Store QA Certified Level 1 Tester' (another way of saying that I tested the incoming apps for Jolla App store)"
+      ]
     }
   ],
   "volunteer": [],
@@ -57,26 +56,7 @@
   ],
   "awards": [],
   "publications": [],
-  "skills": [
-    {
-      "name": "Product Development",
-      "level": "",
-      "keywords": [
-        "Materials",
-        "Production",
-        "Design"
-      ]
-    },
-    {
-      "name": "Programming",
-      "level": "Beginner",
-      "keywords": [
-        "Ruby",
-        "HTML",
-        "Javascript"
-      ]
-    }
-  ],
+  "skills": [],
   "languages": [
     {
       "language": "Swedish",
