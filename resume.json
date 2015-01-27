@@ -6,7 +6,7 @@
     "email": "oscar@storbacka.co",
     "phone": "0505-241-863",
     "website": "http://oscarstorbacka.com",
-    "summary": "I am a swedish speaking finn, and am studying to become a material engineer specialized in plastics. I have a passion for hardware, gadgets, and good design. When I'm not spending time tinkering on small projects I like to relax with some gaming, music making and tinkering even more.",
+    "summary": "Fenno-Swedish, studying Materials Processing Technology. Passionate about hardware, design, internet and tinkering. Enjoys a good video game, music and food when relaxing.",
     "location": {
       "address": "Pengerkatu 7 C 79",
       "postalCode": "00530",
@@ -34,19 +34,20 @@
       "website": "http://jolla.com/",
       "startDate": "03-10-2014",
       "endDate": "09-10-2014",
-      "summary": "Jolla is an independent designer and developer of various mobile devices as well as their open Sailfish OS and Mer Core open source projects.Headquartered in Helsinki, Finland, Jolla has Research and Development (R&D) sites in Helsinki and Tampere, an office in Hong Kong, and they are establishing R&D operations in China.  Jolla, in Finnish, is pronounced 'yolla'.",
+      "summary": "Jolla, pronounced 'yolla', is an independent designer and developer of various mobile devices as well as their open Sailfish OS and Mer Core open source projects.",
       "highlights": [
         "Upheld the QA infrastructure and helped updating and patching the QA software",
         "Manual testing of the software at each new software release",
 	"Achieved 'Jolla Harbour Store QA Certified Level 1 Tester' (another way of saying that I tested the incoming apps for Jolla App store)"
-      ]
+      ],
+      "important": true
     }
   ],
   "volunteer": [],
   "education": [
     {
       "institution": "Arcada University of Applied Science",
-      "area": "Plastics Technology",
+      "area": "Materials Processing Technology",
       "studyType": "Bachelor",
       "startDate": "2012",
       "endDate": "",
@@ -95,28 +96,43 @@
       "name": "Design",
       "keywords": [
         "Functional design",
-        "Minimalism"
+        "Minimalism",
+        "Web design"
       ]
     },
     {
       "name": "Products",
       "keywords": [
         "Hardware",
-        "Gadgets"
+        "Gadgets",
+        "Production",
+        "Materials",
+        "Computers"
       ]
     },
     {
       "name": "Gaming",
       "keywords": [
-        "Online multiplayer team games"
+        "Video games"
       ]
     },
     {
       "name": "Music",
       "keywords": [
-        "Bedroom producer"
+        "Guitar",
+        "Music production"
       ]
-    }
+    },
+    {
+      "name": "Engineering",
+      "keywords": [
+        "3D Printing",
+        "CNC-mills",
+        "Woodworking",
+        "Electronics",
+        "Programming",
+      ]
+    },
   ],
   "references": []
 }
