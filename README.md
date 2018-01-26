@@ -23,7 +23,6 @@ Misc
 * Thesis (Created a wireless bluetooth camera remote with a LightBlue Bean and 3D-printing)
 
 
-
 >School
 
 
