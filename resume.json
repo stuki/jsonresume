@@ -2,16 +2,16 @@
   "basics": {
     "name": "Oscar Storbacka",
     "label": "Materials Processing Student",
-    "picture": "https://dl.dropboxusercontent.com/u/854081/Pics/me.jpg",
-    "email": "oscar@storbacka.co",
-    "phone": "0505-241-863",
+    "picture": "",
+    "email": "",
+    "phone": "",
     "website": "http://oscarstorbacka.com",
     "summary": "Fenno-Swedish, studying Materials Processing Technology. Passionate about hardware, design, internet and tinkering. Enjoys a good video game, music and food when relaxing.",
     "location": {
-      "address": "Pengerkatu 7 C 79",
-      "postalCode": "00530",
-      "city": "Helsinki",
-      "countryCode": "Finland",
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
