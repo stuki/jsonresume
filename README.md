@@ -7,19 +7,13 @@ Listen: spotify:playlist:4g328RuCiqwJlOryUdkWCx
 
 >Work & Personal projects
 
-Rapal (2018-)
-Full stack developing mobile and web apps using angular, react-native and .NET
+Flowhaven (2021-) Senior Developer
 
-Academic Work (2018-2019)
-After a 3 month crash course on building applications using .NET, I jumped to Rapal as an IT consultant for a year. 
+Rapal (2018-2021) Fullstack Developer
 
-Jolla (2014-2015)
-QA Automation Engineer
+Academic Work (2018-2019) IT Consultant
 
-Misc
-* Private sideprojects
-* Visual marketing campaign ads
-* Thesis (Created a wireless bluetooth camera remote with a LightBlue Bean and 3D-printing)
+Jolla (2014-2015) QA Automation Engineer
 
 
 >School
